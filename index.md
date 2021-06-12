@@ -1,3 +1,5 @@
 ## Welcome to Euvip2022@Lisbon !
 
-<object data="https://jascenso.github.io/euvip2022/cfp.pdf" type="application/pdf" width="1024px" height="1536px">
+![Euvip2022 CfP](https://jascenso.github.io/euvip2022/cfp.jpg "Euvip2022 CfP")
+
+CfP PDF is available here: [Euvip2022 CfP](https://jascenso.github.io/euvip2022/cfp.pdf)
